@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{A04CF4CD-FB86-40F0-F764-11C4D82A01AD}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Seiro/VariableVisualizer/Editor/SerializedPropertyWindow.cs">
     <Files>
-      <File FileName="Assets/Seiro/VariableVisualizer/Editor/SerializedPropertyWindow.cs" Line="118" Column="104" />
+      <File FileName="Assets/Seiro/VariableVisualizer/Editor/SerializedPropertyWindow.cs" Line="28" Column="27" />
       <File FileName="Assets/Seiro/VariableVisualizer/VariableLogger.cs" Line="14" Column="31" />
-      <File FileName="Assets/Seiro/VariableVisualizer/Editor/VariableVisualizer.cs" Line="225" Column="52" NotebookId="1" />
+      <File FileName="Assets/Seiro/VariableVisualizer/Editor/VariableVisualizer.cs" Line="229" Column="34" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

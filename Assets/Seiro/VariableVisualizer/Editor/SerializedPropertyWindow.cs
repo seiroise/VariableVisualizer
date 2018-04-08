@@ -196,11 +196,13 @@ namespace Seiro.VariableVisualizer {
 
 		static string ToSimpleName(SerializedPropertyType type) {
 			switch(type) {
-				case SerializedPropertyType.Integer: return "int";
-				case SerializedPropertyType.Float: return "float";
-				case SerializedPropertyType.Vector3: return "Vector3";
-				case SerializedPropertyType.Vector2: return "Vector2";
-				case SerializedPropertyType.Quaternion: return "Quaternion";
+				case SerializedPropertyType.Integer		: return "int";
+				case SerializedPropertyType.Float		: return "float";
+				case SerializedPropertyType.Vector2		: return "Vector2";
+				case SerializedPropertyType.Vector3		: return "Vector3";
+				case SerializedPropertyType.Vector4		: return "Vector4";
+				case SerializedPropertyType.Quaternion	: return "Quaternion";
+				case SerializedPropertyType.Color		: return "Color";
 				default: return null;
 			}
 		}
