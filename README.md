@@ -15,6 +15,12 @@
 - 特定の条件下の時に記録する
 - リフレクションでゲッターセッターなどの値も取れるようにする
 
+## 参考
+- https://gist.github.com/asus4/b0d43fb119cdf5d3b7825251cadbdd4a
+- http://baba-s.hatenablog.com/entry/2015/05/15/162823
+- http://baba-s.hatenablog.com/entry/2015/05/21/112930
+- https://forum.unity.com/threads/display-array-in-custom-editor-window.380871/
+
 ## 動機(使う人は読まなくてもいいやつ)
 ゲームのデバッグめんどいから(特に物理エンジン周り)、
 パラメータ可視化したらいいんじゃない？そうだやったろ！
