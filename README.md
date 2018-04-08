@@ -1,4 +1,4 @@
-![](https/github.com/seiroise/VariableVisualizer/blob/media/gif/vv.gif)
+![](https://github.com/seiroise/VariableVisualizer/blob/media/gif/vv.gif)
 
 ## 内容
 - Unity上でシリアライズされている変数(一部の型)の値をグラフに表示するエディタウィンドウ
